@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b5d8b44-31a9-43eb-a1ae-7c9188a3a34b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOCUMENTATION/assets/css/documenter_style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOCUMENTATION/assets/css/img/info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOCUMENTATION/assets/css/img/warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOCUMENTATION/assets/js/google-code-prettify/prettify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOCUMENTATION/assets/js/google-code-prettify/prettify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOCUMENTATION/assets/js/jquery.easing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOCUMENTATION/assets/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOCUMENTATION/assets/js/jquery.scrollTo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOCUMENTATION/assets/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOCUMENTATION/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML File.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE/Apache License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE/MITLicense(MIT).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE/README_License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE/license-README-FIRST.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/easy-responsive-tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fontello.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/owl-carousel/AjaxLoader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/owl-carousel/grabbing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/owl-carousel/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/owl-carousel/owl.theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/owl-carousel/owl.transitions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curriculum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/fontello.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/fontello.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/fontello.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/fontello.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/fontello.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/city-840x320.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/comment/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/comment/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/comment/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/marker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/large-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/large-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/large-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/large-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/profile-size.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/service.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/signature.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/testimonial/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/testimonial/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/testimonial/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/instafeed.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-1.11.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.easytabs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.magnific-popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/placeholders.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/send.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BDHUVBgVvTmzt0xf47fWp8VZTf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/alanv/IdeaProjects/curriculum/img"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alanv\IdeaProjects\curriculum\img" />
+      <recent name="C:\Users\alanv\IdeaProjects\curriculum" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alanv\IdeaProjects\curriculum\img" />
+      <recent name="C:\Users\alanv\IdeaProjects\curriculum" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b5d8b44-31a9-43eb-a1ae-7c9188a3a34b" name="Changes" comment="" />
+      <created>1656433751776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656433751776</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
