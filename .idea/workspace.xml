@@ -1,88 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b5d8b44-31a9-43eb-a1ae-7c9188a3a34b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOCUMENTATION/assets/css/documenter_style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOCUMENTATION/assets/css/img/info.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOCUMENTATION/assets/css/img/warning.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOCUMENTATION/assets/js/google-code-prettify/prettify.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOCUMENTATION/assets/js/google-code-prettify/prettify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOCUMENTATION/assets/js/jquery.easing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOCUMENTATION/assets/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOCUMENTATION/assets/js/jquery.scrollTo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOCUMENTATION/assets/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOCUMENTATION/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML File.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE/Apache License.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE/MITLicense(MIT).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE/README_License.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE/license-README-FIRST.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog_single.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/easy-responsive-tabs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fontello.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/owl-carousel/AjaxLoader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/owl-carousel/grabbing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/owl-carousel/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/owl-carousel/owl.theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/owl-carousel/owl.transitions.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curriculum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/fontello.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/fontello.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/fontello.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/fontello.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/fontello.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/city-840x320.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/comment/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/comment/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/comment/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/marker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/large-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/large-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/large-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/large-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/profile-size.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/service.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/signature.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/testimonial/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/testimonial/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/testimonial/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/instafeed.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-1.11.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.easytabs.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.magnific-popup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/placeholders.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_single.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/send.php" afterDir="false" />
+    <list default="true" id="0b5d8b44-31a9-43eb-a1ae-7c9188a3a34b" name="Changes" comment="fist changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,6 +57,14 @@
       <option name="presentableId" value="Default" />
       <updated>1656433751776</updated>
     </task>
+    <task id="LOCAL-00001" summary="fist changes">
+      <created>1656517002671</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656517002671</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,5 +77,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fist changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="fist changes" />
   </component>
 </project>
