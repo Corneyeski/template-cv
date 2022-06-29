@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b5d8b44-31a9-43eb-a1ae-7c9188a3a34b" name="Changes" comment="fist changes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0b5d8b44-31a9-43eb-a1ae-7c9188a3a34b" name="Changes" comment="updates and remove blog">
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog_single.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog_single.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_single.html" beforeDir="false" afterPath="$PROJECT_DIR$/project_single.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656517002671</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updates and remove blog">
+      <created>1656518294409</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656518294409</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fist changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="fist changes" />
+    <MESSAGE value="updates and remove blog" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates and remove blog" />
   </component>
 </project>
